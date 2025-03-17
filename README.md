@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 I’m a **2nd-year student** passionate about **Blockchain technology**.
+- 👯 I’m looking to collaborate on **decentralized applications (DApps) and smart contracts**.
+- 🤝 I’m looking for help with **understanding consensus mechanisms and Layer 2 solutions**.
+- 🌱 I’m currently learning **Solidity, Web3.js, and DeFi protocols**.
+- 💬 Ask me about **blockchain fundamentals, Ethereum, and smart contracts**.
+- ⚡ Fun fact: **I believe the future is decentralized, and I'm here to build it! 🚀
 
 
 ## 🌐 Socials:
