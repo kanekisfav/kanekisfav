@@ -1,10 +1,11 @@
 # 💫 About Me:
-I am a **blockchain developer and strategist**, passionate about decentralization and its impact on global systems. Currently in my second year of study, I specialize in building scalable DApps and secure smart contracts.
+I am a blockchain developer and cybersecurity specialist, passionate about securing decentralized systems and shaping the future of digital trust. Currently in my second year of study, I specialize in building secure DApps, smart contracts, and cybersecurity solutions for blockchain networks.
 
-- 🔗 **Blockchain Expertise** - Skilled in Solidity, Web3.js, DeFi, and enterprise solutions.
-- 🚀 **Vision-Driven** - Focused on real-world blockchain adoption and institutional integration.
-- 🤝 **Strategic Collaborator** - Open to partnerships with industry leaders and investors.
-- 🔥 **Innovator & Builder** - Committed to shaping the decentralized future through groundbreaking projects.
+- 🔗 **Technical Expertise** - Skilled in Solidity, Web3.js, DeFi, and enterprise security frameworks.
+- 🛡️ **Cybersecurity Focused** - Implementing cryptographic protocols, threat mitigation, and secure smart contract development.
+- 🚀 **Vision-Driven** - Committed to enhancing blockchain security and driving institutional adoption.
+- 🤝 **Strategic Collaborator** - Open to partnerships with industry leaders, investors, and cybersecurity professionals.
+- 🔥 **Innovator & Builder** - Developing scalable, secure, and future-proof decentralized solutions.
 
 
 ## 🌐 Socials:
